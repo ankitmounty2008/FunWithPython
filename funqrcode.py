@@ -1,3 +1,3 @@
 import qrcode
-img = qrcode.make("Saravanan Madharchod hai")
-img.save("Rupesh.jpg")
+img = qrcode.make("Scan This QR")
+img.save("AnyImage.jpg")
